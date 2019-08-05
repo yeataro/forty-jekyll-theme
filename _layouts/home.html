@@ -16,12 +16,13 @@
     <section id="banner" class="major">
         <div class="inner">
             <header class="major">
-                <h1>{{ page.landing-title }}</h1>
+                
+                    <img src="{{ site.baseurl }}/{{ site.logo }}" style="display:inline; width: auto; height: 5em; padding: 0px; margin: auto; margin-left: -1em " ><!--h1>{{ page.landing-title }}</h1-->
             </header>
             <div class="content">
                 <p style="text-transform: uppercase;">{{ site.description }}</p>
                 <ul class="actions">
-                    <li><a href="#one" class="button next scrolly">About us</a></li>
+                    <li><a href="#one" class="button  scrolly">MORE</a></li>
                 </ul>
             </div>
         </div>
@@ -33,7 +34,7 @@
         <!-- One -->
         {% include tiles.html %}
 
-        <!-- Two -->
+        <!-- Two 
         <section id="two">
             <div class="inner">
                 <header class="major">
@@ -45,7 +46,7 @@
                 </ul>
             </div>
         </section>
-
+        -->
     </div>
 
     {% include footer.html %}

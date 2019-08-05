@@ -2,8 +2,8 @@
 # site settings
 title: ChillProduction
 #subtitle: Visual / Sound / Installation / Interactive / Space
-email: chillprodiction.tw@gmail.com
-description: Create and Connect<p>Visual / Sound / Installation / Interactive / Space</p>
+email: chillproduction.tw@gmail.com
+description: Create and Connect  <br>Visual / Sound / Installation / Interactive / Space
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Yea Chen
@@ -13,6 +13,9 @@ state: TW
 zip_code: 23150
 country: Taiwan
 phone: (886) 2-8913-6158
+
+logo: assets/images/LogoP.svg
+logo2: assets/images/Chill_production_logo.svg
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
