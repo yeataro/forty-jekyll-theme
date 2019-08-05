@@ -1,12 +1,12 @@
 # site settings
-title: ChlillProduction
-subtitle: Visual / Sound / Installation / Interactive / Space
+title: ChillProduction
+#subtitle: Visual / Sound / Installation / Interactive / Space
 email: chillprodiction.tw@gmail.com
 description: Create and Connect<p>Visual / Sound / Installation / Interactive / Space</p>
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Yea Chen
-street_address: 1F., No.185, Zhongyang Rd., Xindian Dist
+street_address: 1F, No.185, Zhongyang Rd., Xindian Dist.
 city: New Taipei
 state: TW
 zip_code: 23150
@@ -18,7 +18,7 @@ tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
-500px_url:
+#500px_url:
 facebook_url: https://www.facebook.com/chillproduction2016/
 github_url: https://github.com/ChillProduction
 #gitlab_url: https://gitlab.com/u/andrewbanchich
