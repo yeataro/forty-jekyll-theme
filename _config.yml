@@ -1,9 +1,9 @@
 # https://yeataro.github.io/forty-jekyll-theme/
 # site settings
 title: ChillProduction
-#subtitle: Visual / Sound / Installation / Interactive / Space
+subtitle: 
 email: chillproduction.tw@gmail.com
-description: Create and Connect  <br>Visual / Sound / Installation / Interactive / Space
+description: Create and Connect | Visual / Sound / Installation / Interactive / Space |
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Yea Chen
