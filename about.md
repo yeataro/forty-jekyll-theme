@@ -1,7 +1,7 @@
 ---
 title: About us
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: '關於遊樂製品'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---

@@ -15,7 +15,7 @@ country: Taiwan
 phone: (886) 2-8913-6158
 
 logo: assets/images/LogoP.svg
-logo2: assets/images/Chill_production_logo.svg
+logo2: assets/images/loga_encht.svg
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
